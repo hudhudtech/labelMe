@@ -3,8 +3,8 @@
 ## Instructions to use the Dockerfile:
 
 * In `terminal` navigate to this directory.  
-* Run `$bash ./build_labelme_image.sh` to build the labelme image.
-* Run `$bash ./start_labelme_container.sh` to start the container.
+* Run `zsh ./build_labelme_image.sh` to build the labelme image.
+* Run `zsh ./start_labelme_container.sh` to start the container.
 * Point your favourite browser to **http://localhost:8080/LabelMeAnnotationTool/tool.html**. Let the Labeling Begin!
 
 #### NOTE:
